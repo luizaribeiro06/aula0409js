@@ -1,0 +1,20 @@
+input{
+    margin-bottom: 15px;
+}
+
+body{
+    background-color: #f4f4f4;
+}
+
+.btn-calcular{
+    background: red;
+    padding: 10px 8px 10px 8px;
+    border-radius: 8px;
+    color: #ffffff;
+    border: none
+}
+
+.btn-calcular:hover{
+    background: green;
+    cursor: pointer;
+}
